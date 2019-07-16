@@ -1,3 +1,7 @@
 .jidlo{
-  border-radius: 100%  
+  border-radius: 180%; 
+}
+
+.center {
+  text-align: center;
 }
